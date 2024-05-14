@@ -1,2 +1,2 @@
-# Project_1
- 
+# Amazon-Clone
+Author - Abhishek Kumar
